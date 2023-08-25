@@ -15,7 +15,7 @@
     "publish"
   ],
   "publishConfig": {
-  "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  "@lrogh:registry": "https://npm.pkg.github.com"
   },
   "author": "lrogh",
   "license": "ISC"
